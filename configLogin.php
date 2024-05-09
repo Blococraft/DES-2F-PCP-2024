@@ -2,7 +2,7 @@
  $dbHost = 'localhost';
  $dbUsername = 'root';
  $dbPassword = '';
- $dbName = 'FormLFeMaCh';
+ $dbName = 'BDFeMaCh';
 
  $conexao = new mysqli($dbHost,$dbUsername,$Password,$Name);
 
