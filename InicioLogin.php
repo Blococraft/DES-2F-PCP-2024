@@ -158,7 +158,7 @@ print_r($_POST[‘pin’]);
 
         <h2>Login</h2>
 
-        <form action="Iniciologin.php" method="post">
+        <form action="configLogin.php" method="post">
 
             <div class="form-group">
 
